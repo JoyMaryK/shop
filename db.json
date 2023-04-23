@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "productName": "Mouse",
+      "productImg": "https://imgs.search.brave.com/ysqadkH_tvYB_BM2Ez1V_p7k37_zEqdfJUpHEiT0t0s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nYW1p/bmdseWZlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8x/MS9ST0NDQVQtc2Nh/bGVkLmpwZw",
+      "productDescription": "\nROCCAT KONE AIMO MOUSE OUT NOW",
+      "productPrice": "500",
+      "id": 4
+    },
+    {
+      "productName": "Desktop",
+      "productImg": "https://imgs.search.brave.com/-kKJnrY_LSxVKjiJSsVwosfmCPpvgYQ4pkDg9dNt-Kc/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNsaWZlLmdy/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzA5L1JPQ0NBVF9T/a2x0X0Rlc2t0b3Bf/MDEtcmlnaHRfR1JZ/LUxhcmdlLmpwZw",
+      "productDescription": "\nROCCAT",
+      "productPrice": "10000",
+      "id": 5
+    },
+    {
+      "productName": "Bedsss",
+      "productImg": "https://imgs.search.brave.com/lNzMjQ7UabEAKd7c6lzFzHM3Z6Zs1hEa7IrRfiJpt2s/rs:fit:1200:999:1/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvZTY5/ZjMyZGYtN2I0ZC00/OGQ2LWFjM2MtOWQ1/OTI0MTY4ZDE2XzEu/OTdhNjFjM2Y5YzFi/YWNhNzY2M2M0MDg2/MjY3YWQ2MGMuanBl/Zw",
+      "productDescription": "A soft Pillow!!",
+      "productPrice": "456789",
+      "id": 6
+    },
+    {
+      "productName": "book",
+      "productImg": "https://imgs.search.brave.com/tZHmmID0hRcrALT8DdsbpCihyNh_tnIEdn-QevPEjiQ/rs:fit:355:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5G/LWw0R2JWaGh5RmJ5/Vk9NRVMxZFhnSGFK/NCZwaWQ9QXBp",
+      "productDescription": "manuscript found in accra]",
+      "productPrice": "60",
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "productName": "Mouse",
+      "productImg": "https://imgs.search.brave.com/ysqadkH_tvYB_BM2Ez1V_p7k37_zEqdfJUpHEiT0t0s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nYW1p/bmdseWZlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8x/MS9ST0NDQVQtc2Nh/bGVkLmpwZw",
+      "productDescription": "\nROCCAT KONE AIMO MOUSE OUT NOW",
+      "productPrice": "500",
+      "prodId": 4,
+      "id": 1
+    },
+    {
+      "productName": "Desktop",
+      "productImg": "https://imgs.search.brave.com/-kKJnrY_LSxVKjiJSsVwosfmCPpvgYQ4pkDg9dNt-Kc/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNsaWZlLmdy/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzA5L1JPQ0NBVF9T/a2x0X0Rlc2t0b3Bf/MDEtcmlnaHRfR1JZ/LUxhcmdlLmpwZw",
+      "productDescription": "\nROCCAT",
+      "productPrice": "10000",
+      "prodId": 5,
+      "id": 2
+    },
+    {
+      "productName": "Desktop",
+      "productImg": "https://imgs.search.brave.com/-kKJnrY_LSxVKjiJSsVwosfmCPpvgYQ4pkDg9dNt-Kc/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNsaWZlLmdy/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzA5L1JPQ0NBVF9T/a2x0X0Rlc2t0b3Bf/MDEtcmlnaHRfR1JZ/LUxhcmdlLmpwZw",
+      "productDescription": "\nROCCAT",
+      "productPrice": "10000",
+      "prodId": 5,
+      "id": 3
+    },
+    {
+      "productName": "Mouse",
+      "productImg": "https://imgs.search.brave.com/ysqadkH_tvYB_BM2Ez1V_p7k37_zEqdfJUpHEiT0t0s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nYW1p/bmdseWZlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8x/MS9ST0NDQVQtc2Nh/bGVkLmpwZw",
+      "productDescription": "\nROCCAT KONE AIMO MOUSE OUT NOW",
+      "productPrice": "500",
+      "prodId": 4,
+      "id": 4
+    },
+    {
+      "productName": "sd",
+      "productImg": "https://imgs.search.brave.com/DDEPW82PCA-WH2Bgj94m6-05LkmwGIb2s7ANWVGveq4/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5QNzY2bS1E/TDZvSFVFMjBUTVZr/VHhBSGFFNyZwaWQ9/QXBp",
+      "productDescription": "asc",
+      "productPrice": "33",
+      "prodId": 8,
+      "id": 5
+    }
+  ]
+}
